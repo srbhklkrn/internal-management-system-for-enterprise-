@@ -1,0 +1,6 @@
+Username - admin
+password - multid
+
+reportico
+
+pass- multid
